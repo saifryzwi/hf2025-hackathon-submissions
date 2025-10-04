@@ -1,35 +1,35 @@
 # Hackathon Submission: <PROJECT_NAME>
 
 ## GitHub handle
-_Enter your GitHub handle_
+@saifryzwi
 
 <!--
 @adityaoberai
 -->
 
 ## Project Title
-_What is the name of your project?_
+Exam Notes
 
 <!--
 CodeCapture
 -->
 
 ## Project Description    
-_What have you built during the hackathon?_
+An app for the website allexamnotes.com
 
 <!--
 The project I created is...
 -->
 
 ## Inspiration behind the Project  
-_What is the story behind this project? Why did you choose to work on this specific idea?_
+To create an app for users fro seamless access to the contents.
 
 <!--
 The reason I chose this idea/project was...
 -->
 
 ## Tech Stack    
-_How have you built this project? Mention the technologies/methods/platforms you used to build your project_
+Java/Android
 
 <!--
 The technologies I used...
@@ -49,13 +49,13 @@ e.g.:
 - [ ] Auth
 - [ ] Databases
 - [ ] Storage
-- [ ] Functions
+- [X] Functions
 - [ ] Messaging
 - [ ] Realtime
-- [ ] Sites
+- [X] Sites
 
 ## Project Repo  
-_Share a public repo link of your project_
+https://github.com/DotEvolve/com.allexamnotes.app
 
 <!--
 https://github.com/code-capture/CodeCapture-Xamarin
